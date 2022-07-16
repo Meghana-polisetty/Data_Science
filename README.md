@@ -95,6 +95,7 @@ Assignment12
 7. Write a Python program to sort Python Dictionaries by Key or Value?
 
 Assignment13
+
 Question 1:
 Write a program that calculates and prints the value according to the given formula:
 Q = Square root of [(2 * C * D)/H]
@@ -163,6 +164,7 @@ Then, the output of the program should be:
 ABd1234@1
 
 Assignment14
+
 Question 1:
 Define a class with a generator which can iterate the numbers, which are divisible by
 7, between a given range 0 and n.
@@ -205,6 +207,7 @@ Please write a binary search function which searches an item in a sorted list. T
 function should return the index of element to be searched in the list.
 
 Assignment15
+
 Question 1:
 Please write a program using generator to print the numbers which can be divisible by 5 and
 7 between 0 and n in comma separated form while n is input by console.
@@ -253,6 +256,7 @@ which takes a length as argument. Both classes have a area function which can pr
 of the shape where Shape&#39;s area is 0 by default.
 
 Assignment16
+
 Question1. Write a function that stutters a word as if someone is struggling to read it. The
 first two letters are repeated twice with an ellipsis ... and space after each, and then the
 word is pronounced with a question mark ?.
@@ -310,6 +314,7 @@ binary(10) ➞ &quot;1010&quot;
 # 1*2 + 1*8 = 10
 
 Assignment17
+
 Question1. Create a function that takes three arguments a, b, c and returns the sum of the
 numbers that are evenly divided by c from the range a, b inclusive.
 Examples
@@ -353,6 +358,7 @@ hamming_distance(&quot;abcde&quot;, &quot;abcde&quot;) ➞ 0
 hamming_distance(&quot;strong&quot;, &quot;strung&quot;) ➞ 1
 
 Assignment18
+
 Question 1
 Create a function that takes a list of non-negative integers and strings and return a new list
 without the strings.
@@ -406,6 +412,7 @@ move_to_end([7, 8, 9, 1, 2, 3, 4], 9) ➞ [7, 8, 1, 2, 3, 4, 9]
 move_to_end([&quot;a&quot;, &quot;a&quot;, &quot;a&quot;, &quot;b&quot;], &quot;a&quot;) ➞ [&quot;b&quot;, &quot;a&quot;, &quot;a&quot;, &quot;a&quot;]
 
 Assignemnt19
+
 Question1
 Create a function that takes a string and returns a string in which each character is repeated
 once.
@@ -454,6 +461,7 @@ find_even_nums(4) ➞ [2, 4]
 find_even_nums(2) ➞ [2]
 
 Assignment20
+
 Question1
 Create a function that takes a list of strings and integers, and filters out the list so that it
 returns a list of integers only.
@@ -503,6 +511,7 @@ missing_num([7, 2, 3, 6, 5, 9, 1, 4, 8]) ➞ 10
 missing_num([10, 5, 1, 2, 4, 6, 8, 3, 9]) ➞ 7
 
 Assignment21
+
 Question1
 Write a function that takes a list and a number as arguments. Add the number to the end of
 the list, then remove the first element of the list. The function should then return the updated
@@ -562,6 +571,7 @@ return_only_integer([10, &quot;121&quot;, 56, 20, &quot;car&quot;, 3, &quot;lion
 return_only_integer([&quot;String&quot;, True, 3.3, 1]) ➞ [1]
 
 Assignment22
+
 Question1
 Create a function that takes three parameters where:
  x is the start of the range (inclusive).
@@ -622,6 +632,7 @@ Notes
 You don&#39;t have to handle empty strings.
 
 Assignment23
+
 Question 1
 Create a function that takes a number as an argument and returns True or False depending
 on whether the number is symmetrical or not. A number is symmetrical when it is the same as
@@ -671,6 +682,7 @@ Notes
  The mean will always be an integer.
 
 Assignment24
+
 Question1
 Create a function that takes an integer and returns a list from 1 to the given number, where:
 1. If the number can be divided evenly by 4, amplify it by 10 (i.e. return 10 times the
@@ -744,10 +756,8 @@ is_triplet(1, 2, 3) ➞ False
 Notes
 Numbers may not be given in a sorted order.
 
-
-
-
 Assignment25
+
 Question1
 Create a function that takes three integer arguments (a, b, c) and returns the amount of
 integers which are of equal value.
